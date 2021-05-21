@@ -1,4 +1,4 @@
-# ActivityLifeCycle \n
+# ActivityLifeCycle 
 ActivityLifeCycle situation ko samjhna hai.
 (Try to understand the diffrent scenerio of actvity life cycle from launching to destroy.)
 => jab app lunch hota hai(when app launched)=>  oncreate->onstart->onresume
